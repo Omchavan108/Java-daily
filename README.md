@@ -1,1 +1,1 @@
-# Java-daily
+Palindrome code.
